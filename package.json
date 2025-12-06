@@ -2,6 +2,7 @@
   "name": "fayazflix",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://fayaz-jani-git.github.io",
   "description": "Netflix-inspired personal portfolio for Fayaz Jani Sheik - Cybersecurity Graduate and Network Defense Specialist",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -26,7 +27,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-vertical-timeline-component": "^3.3.6"
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "gh-pages": "^6.3.0"
   }
 }
