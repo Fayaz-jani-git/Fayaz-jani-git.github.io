@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b0599f4.css",
+    "main.js": "/static/js/main.b2cf143e.js",
+    "static/media/hard_thing_about_hard_things.jpg": "/static/media/hard_thing_about_hard_things.89ca92ef25d993510745.jpg",
+    "static/media/Hotelcalifornia.jpg": "/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
+    "static/media/48_laws_of_power.jpg": "/static/media/48_laws_of_power.0fb6e1333f6c87eb3b6d.jpg",
+    "static/media/ppop-culture-karan-aujla.jpg": "/static/media/ppop-culture-karan-aujla.5705dc0559392d038d9d.jpg",
+    "static/media/eat_that_frog.jpg": "/static/media/eat_that_frog.813c8f47ac052b6d620c.jpg",
+    "static/media/grey.png": "/static/media/grey.bbfd7fb8e095529e355c.png",
+    "static/media/blue.png": "/static/media/blue.9b293a4a6ef065903a8f.png",
+    "static/media/yellow.png": "/static/media/yellow.2631c5cf63f02f6bbfbf.png",
+    "static/media/red.png": "/static/media/red.6138d0c52611186c9d03.png",
+    "static/media/alchemist.jpg": "/static/media/alchemist.9c7b8d90f87afb9eb1f9.jpg",
+    "static/media/am-arctic-monkeys.jpg": "/static/media/am-arctic-monkeys.49ac5e21de6882b66b8a.jpg",
+    "static/media/atomic_habits.jpg": "/static/media/atomic_habits.1e9739efe6a8eca8240a.jpg",
+    "static/media/guns-n-roses.webp": "/static/media/guns-n-roses.0fc43e1f941a88098915.webp",
+    "static/media/rich_dad_poor_dad.jpg": "/static/media/rich_dad_poor_dad.3e652088b5ec2c6f8709.jpg",
+    "index.html": "/index.html",
+    "main.4b0599f4.css.map": "/static/css/main.4b0599f4.css.map",
+    "main.b2cf143e.js.map": "/static/js/main.b2cf143e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0599f4.css",
+    "static/js/main.b2cf143e.js"
+  ]
+}
