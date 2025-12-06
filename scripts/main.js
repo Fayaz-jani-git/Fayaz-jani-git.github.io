@@ -1,9 +1,9 @@
 ﻿// Config
 const CONFIG = {
-  name: 'Archit Jain',
-  email: 'architjain2501@gmail.com',
-  githubUser: 'archit2501',
-  linkedIn: 'https://www.linkedin.com/in/architjain01/',
+  name: 'Fayaz Jani Sheik',
+  email: 'fayazjani.sheik@gmail.com',
+  githubUser: '',
+  linkedIn: 'https://www.linkedin.com/in/fayazjanisheik',
   // Pinned repo queries (searched within the user GitHub). Edit names to fit your repos.
   pinnedQueries: [
     'ai outfit recommender',

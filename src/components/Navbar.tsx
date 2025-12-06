@@ -11,7 +11,7 @@ const Navbar: React.FC = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const profileImage = location.state?.profileImage || blueImage;
-  const logoText = 'ARCHIT JAIN';
+  const logoText = 'FAYAZ SHEIK';
 
   const handleScroll = () => {
     setIsScrolled(window.scrollY > 80);

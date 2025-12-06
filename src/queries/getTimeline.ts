@@ -4,29 +4,62 @@ import { TimelineItem } from '../types';
 export async function getTimeline(): Promise<TimelineItem[]> {
   return [
     {
-      name: 'F1jobs.io (NeuraScribe Inc, Austin, Texas – Remote)',
+      name: 'Indiana Institute of Technology',
       timelineType: 'work',
-      title: 'Full Stack Engineer',
-      techStack: 'React.js, Node.js, MongoDB, AI-driven workflows, RESTful APIs',
+      title: 'Embedded Tutor',
+      techStack: 'Python, Security Operations, Problem-Solving',
       summaryPoints: [
-        'Developing and maintaining scalable full-stack web applications using React.js, Node.js, and MongoDB, ensuring high performance and seamless user experience',
-        'Engineered custom portfolio builders and GitHub optimization tools, empowering clients to enhance their professional presence and visibility online',
-        'Built and optimized automated resume enhancement systems leveraging AI-driven workflows, reducing manual processing time and improving output accuracy',
-        'Collaborating cross-functionally to design, deploy, and manage production-grade APIs and UI/UX architectures, driving product innovation and platform reliability'
+        'Facilitated in-class labs for computer science courses, predominantly using Python to enhance students analytical and technical skills applicable in security operations',
+        'Guided students in problem-solving and project development, fostering an environment of meticulous attention to detail and technical proficiency'
       ],
-      dateRange: 'Oct 2025 - Present'
+      dateRange: 'Sep 2024 - May 2025'
     },
     {
-      name: 'Amity University, Uttar Pradesh',
+      name: 'Indiana Institute of Technology',
+      timelineType: 'work',
+      title: 'Teaching Assistant',
+      techStack: 'Python, Linux Security, Cryptography, Network Defense',
+      summaryPoints: [
+        'Led labs on Python scripting and Linux security practices, improving student proficiency in secure coding and foundational incident handling concepts',
+        'Enhanced students understanding of cryptography and network defense principles, contributing to higher exam scores and improved project quality'
+      ],
+      dateRange: 'Sep 2023 - May 2024'
+    },
+    {
+      name: 'Indiana Institute of Technology',
+      timelineType: 'work',
+      title: 'Research Assistant',
+      techStack: 'Curriculum Development, Research, Academic Planning',
+      summaryPoints: [
+        'Partnered with Professor Patricia Tanner to design and structure a comprehensive Masters degree program, aligning academic content with industry standards',
+        'Conducted in-depth research on curriculum frameworks, course outcomes, and accreditation requirements to support strategic program development',
+        'Synthesized data from peer institutions and professional organizations to propose relevant course topics and sequencing'
+      ],
+      dateRange: 'Sep 2023 - Dec 2023'
+    },
+    {
+      name: 'Humata.AI, Austin, TX',
+      timelineType: 'work',
+      title: 'Support Engineer Intern',
+      techStack: 'Slack, Stripe, Intercom, Security Analysis',
+      summaryPoints: [
+        'Resolved user security issues, ensuring data privacy compliance and enhancing user trust',
+        'Collaborated with the security team to identify and mitigate platform vulnerabilities, improving system stability and security',
+        'Streamlined support processes using Slack, Stripe, and Intercom, reducing response time and increasing efficiency'
+      ],
+      dateRange: 'Jun 2023 - Aug 2023'
+    },
+    {
+      name: 'Indiana Institute of Technology',
       timelineType: 'education',
-      title: 'Bachelor of Technology - Computer Science (Data Science)',
+      title: 'Bachelor of Science in Cybersecurity',
       techStack: '',
       summaryPoints: [
-        'Relevant Coursework: Data Structures using C, Object Oriented programming using C++, introduction to computer and Programming in C, Java Programming, Python for Data Science, Artificial intelligence, Machine Learning and its applications',
-        '🏆 Secured 1st place (out of 150 teams) in Cyber Cup 5.0 – National Hackathon (2025)',
-        '🏆 Secured 3rd place (out of 160 teams) in Cyber Cup 4.0 – National Hackathon (2024)'
+        'GPA: 3.61',
+        'Relevant Skills: Incident Response, Network Defense, Penetration Testing, Intrusion Detection, SIEM, Network Traffic Analysis',
+        'Technical Proficiency: Wireshark, Magnet Axiom, TCP/IP, NIST Frameworks, VMware, Docker'
       ],
-      dateRange: 'Sep 2022 - Apr 2026'
+      dateRange: 'Graduation: May 2025'
     }
   ];
 }

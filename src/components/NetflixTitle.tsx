@@ -6,7 +6,7 @@ const NetflixTitle = () => {
   const [isClicked, setIsClicked] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const navigate = useNavigate();
-  const text = 'ARCHITFLIX';
+  const text = 'FAYAZFLIX';
 
   useEffect(() => {
     // Check if device is mobile

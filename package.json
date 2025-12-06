@@ -1,8 +1,8 @@
 {
-  "name": "architflix",
+  "name": "fayazflix",
   "version": "1.0.0",
   "private": true,
-  "description": "Netflix-inspired personal portfolio for Archit Jain - Full Stack Developer & AI Automation Engineer",
+  "description": "Netflix-inspired personal portfolio for Fayaz Jani Sheik - Cybersecurity Graduate and Network Defense Specialist",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

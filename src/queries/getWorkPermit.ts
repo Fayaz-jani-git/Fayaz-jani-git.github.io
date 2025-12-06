@@ -3,8 +3,8 @@ import { WorkPermit } from '../types';
 
 export async function getWorkPermit(): Promise<WorkPermit> {
   return {
-    visaStatus: 'Indian Citizen',
-    summary: 'Available for full-time opportunities. Open to relocation.',
-    additionalInfo: 'Authorized to work in India. Open to international opportunities with visa sponsorship.'
+    visaStatus: 'Work Authorization Available',
+    summary: 'Available for full-time opportunities. Based in Austin, Texas.',
+    additionalInfo: 'Open to cybersecurity roles including SOC Analyst, Security Engineer, Penetration Tester, and Incident Response positions.'
   };
 }

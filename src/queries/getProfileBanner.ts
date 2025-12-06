@@ -6,11 +6,11 @@ export async function getProfileBanner(): Promise<ProfileBanner> {
     backgroundImage: {
       url: 'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ5eWwwbjRpdWM1amxyd3VueHhteTVzajVjeGZtZGJ1dDc4MXMyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/16u7Ifl2T4zYfQ932F/giphy.gif'
     },
-    headline: 'Full Stack Engineer & AI/ML Enthusiast',
+    headline: 'Cybersecurity Graduate & Network Defense Specialist',
     resumeLink: {
-      url: '/Archit_Jain_Resume.pdf'
+      url: '/Fayaz_Jani_Sheik_Resume.pdf'
     },
-    linkedinLink: 'https://www.linkedin.com/in/architjain01/',
-    profileSummary: 'B.Tech Computer Science (Data Science) student at Amity University, graduating April 2026. Full Stack Engineer at F1jobs.io building scalable applications with React, Node.js, and MongoDB. 1st place winner at Cyber Cup 5.0 National Hackathon.'
+    linkedinLink: 'https://www.linkedin.com/in/fayazjanisheik',
+    profileSummary: 'Bachelor of Science in Cybersecurity from Indiana Institute of Technology, graduating May 2025. Experienced in incident response, penetration testing, and secure coding. Support Engineer Intern at Humata.AI with expertise in Python, Linux security, and network defense.'
   };
 }
