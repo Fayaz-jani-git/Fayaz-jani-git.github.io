@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4b0599f4.css",
-    "main.js": "/static/js/main.b2cf143e.js",
+    "main.js": "/static/js/main.94484c96.js",
     "static/media/hard_thing_about_hard_things.jpg": "/static/media/hard_thing_about_hard_things.89ca92ef25d993510745.jpg",
     "static/media/Hotelcalifornia.jpg": "/static/media/Hotelcalifornia.a1b2e230d97c00441c76.jpg",
     "static/media/48_laws_of_power.jpg": "/static/media/48_laws_of_power.0fb6e1333f6c87eb3b6d.jpg",
@@ -18,10 +18,10 @@
     "static/media/rich_dad_poor_dad.jpg": "/static/media/rich_dad_poor_dad.3e652088b5ec2c6f8709.jpg",
     "index.html": "/index.html",
     "main.4b0599f4.css.map": "/static/css/main.4b0599f4.css.map",
-    "main.b2cf143e.js.map": "/static/js/main.b2cf143e.js.map"
+    "main.94484c96.js.map": "/static/js/main.94484c96.js.map"
   },
   "entrypoints": [
     "static/css/main.4b0599f4.css",
-    "static/js/main.b2cf143e.js"
+    "static/js/main.94484c96.js"
   ]
 }
